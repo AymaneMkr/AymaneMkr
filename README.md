@@ -38,6 +38,7 @@ Launch of a payload with integrated sensors for atmospheric measurements.
 ---
 
 ## 🌍 Languages
+
 ### French
 <div style="width: 100%; background-color: #e0e0e0;">
   <div style="width: 100%; background-color: #4caf50; text-align: center; padding: 5px 0; color: white;">
