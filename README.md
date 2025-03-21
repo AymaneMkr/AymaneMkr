@@ -1,31 +1,33 @@
-# 👋 Salut, je m'appelle Aymane Makri!
+# 👋 Salut ! je m'appelle Aymane Makri!
 
-🎓 **Étudiant en 2ème année de BUT Informatique (Réalisation d’Applications) à l'IUT Lyon 1**
-🚀 Passionné par le développement logiciel, l'administration réseau et les bases de données
-🔍 À la recherche d’un stage en développement (10 à 12 semaines à partir du 14 avril 2025)
+🎓 **Étudiant en 2ème année de BUT Informatique (Réalisation d’Applications) à l'IUT Lyon 1**  
+🚀 Passionné par le développement logiciel, l'administration réseau et les bases de données  
+🔍 À la recherche d’un stage en développement (10 à 12 semaines à partir du 14 avril 2025)  
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Tech Stack
 
 ### **Langages de Programmation**
-- Java, Python, C
-- HTML/CSS, JavaScript (React), PHP
-- SQL, PL/SQL
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
 
 ### **Développement & Outils**
-- Git / GitLab
-- Suite JetBrains, Visual Studio Code, CodeBlocks, NetBeans
-- Oracle SQL Developer, Power AMC
-- Méthode Agile Scrum
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)  
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)  
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)  
 
 ### **Administration Réseau**
-- Configuration de routeurs CISCO
-- Configuration & administration de réseaux locaux (LAN)
-
-### **Systèmes d’Exploitation**
-- Windows 10/11
-- Linux (Ubuntu)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)  
 
 ---
 
@@ -46,14 +48,14 @@ Lancement d’une nacelle avec capteurs intégrés pour des mesures atmosphériq
 ---
 
 ## 🌍 Langues
-- 🇫🇷 Français (C2)
-- 🇬🇧 Anglais (B2/C1)
-- 🇪🇸 Espagnol (B1)
+[![Français](https://img.shields.io/badge/Français-C2-blue?style=for-the-badge)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)  
+[![Anglais](https://img.shields.io/badge/Anglais-B2%2FC1-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/English_language)  
+[![Espagnol](https://img.shields.io/badge/Espagnol-B1-blue?style=for-the-badge)](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)  
 
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-aymane.makri@outlook.com-blue)](mailto:aymane.makri@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Makri-0077B5?logo=linkedin)](https://www.linkedin.com/in/ton-profil/)
+[![Email](https://img.shields.io/badge/Email-aymane.makri@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:aymane.makri@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Makri-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-profil/)  
 
 💡 **Toujours curieux, rigoureux et déterminé à apprendre et évoluer dans le domaine du développement !**
