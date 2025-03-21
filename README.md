@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aymane Makri!
+# 👋 Salut, je m'appelle Aymane Makri!
 
 🎓 **Étudiant en 2ème année de BUT Informatique (Réalisation d’Applications) à l'IUT Lyon 1**
 🚀 Passionné par le développement logiciel, l'administration réseau et les bases de données
