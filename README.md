@@ -23,17 +23,17 @@
 
 ## 📌 Notable Projects
 
-### 🚀 **Runway Management System** *(C, 10/23 - 01/24)*
-Optimization of flight schedules to improve runway efficiency.
+### 🎯 **QuizGrinding** *(HTML/CSS + PHP + React, 10/24 - 01/25)*
+Creation of a web-based quiz application with a dynamic ranking system.
+[View Project](https://github.com/AymaneMkr/QuizGrinding)
 
 ### ✈️ **Safly** *(Java, 03/24 - 06/24)*
 Development of an application that detects and prevents potential flight collisions.
+[View Project](https://github.com/AymaneMkr/Safly)
 
-### 🎯 **QuizGrinding** *(HTML/CSS + PHP + React, 10/24 - 01/25)*
-Creation of a web-based quiz application with a dynamic ranking system.
-
-### 🎈 **Stratospheric Balloon Project** *(10/21 - 06/22)*
-Launch of a payload with integrated sensors for atmospheric measurements.
+### 🚀 **Runway Management System** *(C, 10/23 - 01/24)*
+Optimization of flight schedules to improve runway efficiency.
+[View Project](https://github.com/AymaneMkr/RunwayManagementSystem)
 
 ---
 
