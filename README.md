@@ -39,14 +39,16 @@ Optimization of flight schedules to improve runway efficiency.
 
 ---
 
-## Stats
-  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneMkr&hide_border=true&theme=dracula&langs_count=3" />
-  <br/>
-  
----
-
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-aymane.makri@outlook.com-blue?style=flat-square&logo=gmail)](mailto:aymane.makri@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Makri-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil/)  
+
+---
+
+## Stats
+  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneMkr&hide_border=true&theme=dracula&langs_count=3" />
+  
+---
+
 
 💡 **Always curious, rigorous, and determined to learn and grow in the field of development!**
