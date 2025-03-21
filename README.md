@@ -37,9 +37,28 @@ Launch of a payload with integrated sensors for atmospheric measurements.
 
 ---
 
-## 🌍 Stats
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AymaneMkr&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
-  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneMkri&hide_border=true&theme=dracula&langs_count=3" />
+## 🌍 Languages
+### French
+<div style="width: 100%; background-color: #e0e0e0;">
+  <div style="width: 100%; background-color: #4caf50; text-align: center; padding: 5px 0; color: white;">
+    100%
+  </div>
+</div>
+
+### English
+<div style="width: 100%; background-color: #e0e0e0;">
+  <div style="width: 70%; background-color: #2196f3; text-align: center; padding: 5px 0; color: white;">
+    70%
+  </div>
+</div>
+
+### Spanish
+<div style="width: 100%; background-color: #e0e0e0;">
+  <div style="width: 50%; background-color: #ff9800; text-align: center; padding: 5px 0; color: white;">
+    50%
+  </div>
+</div>
+
 
 ---
 
