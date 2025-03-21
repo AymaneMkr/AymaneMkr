@@ -1,47 +1,46 @@
-# 👋 Hello, I'm Aymane Makri!
+# 👋 Hi, I'm Aymane Makri!
 
-🎓 **Étudiant en 2ème année de BUT Informatique (Réalisation d’Applications) à l'IUT Lyon 1**  
-🚀 Passionné par le développement logiciel, l'administration réseau et les bases de données  
-🔍 À la recherche d’un stage en développement (10 à 12 semaines à partir du 14 avril 2025)  
+🎓 **2nd-year student in a Bachelor's degree in Computer Science (Application Development) at IUT Lyon 1**  
+🚀 Passionate about software development, network administration, and databases  
+🔍 Looking for a development internship (10 to 12 weeks starting from April 14, 2025)  
 
 ---
 
-## 🛠️ Langages de programmation :
+## 🛠️ Programming Languages:
 
   ![](https://skillicons.dev/icons?i=java,python,c,html,css,javascript)
 
-## ⚙ Framework:
+## ⚙ Frameworks:
 
   ![](https://skillicons.dev/icons?i=react,vue,symfony)
 
-## ⚙️ Utils:
+## ⚙️ Tools:
 
   ![](https://skillicons.dev/icons?i=figma,git,vscode,webstorm,idea,androidstudio,phpstorm)
 
-
-## 🔧 System:
+## 🔧 Operating Systems:
  ![](https://skillicons.dev/icons?i=windows,linux)
 
-## 📌 Projets Notables
+## 📌 Notable Projects
 
-### 🚀 **Gestion de piste de décollage** *(C, 10/23 - 01/24)*
-Optimisation des vols pour améliorer l’efficacité d’une piste de décollage.
+### 🚀 **Runway Management System** *(C, 10/23 - 01/24)*
+Optimization of flight schedules to improve runway efficiency.
 
 ### ✈️ **Safly** *(Java, 03/24 - 06/24)*
-Développement d’une application détectant et évitant de potentielles collisions entre vols.
+Development of an application that detects and prevents potential flight collisions.
 
 ### 🎯 **QuizGrinding** *(HTML/CSS + PHP + React, 10/24 - 01/25)*
-Création d’une application web de quiz avec un système de classement dynamique.
+Creation of a web-based quiz application with a dynamic ranking system.
 
-### 🎈 **Ballon Stratosphérique** *(10/21 - 06/22)*
-Lancement d’une nacelle avec capteurs intégrés pour des mesures atmosphériques.
+### 🎈 **Stratospheric Balloon Project** *(10/21 - 06/22)*
+Launch of a payload with integrated sensors for atmospheric measurements.
 
 ---
 
-## 🌍 Langues
-[![Français](https://img.shields.io/badge/Français-C2-blue?style=flat-square)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)  
-[![Anglais](https://img.shields.io/badge/Anglais-B2%2FC1-blue?style=flat-square)](https://en.wikipedia.org/wiki/English_language)  
-[![Espagnol](https://img.shields.io/badge/Espagnol-B1-blue?style=flat-square)](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)  
+## 🌍 Languages
+[![French](https://img.shields.io/badge/French-C2-blue?style=flat-square)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)  
+[![English](https://img.shields.io/badge/English-B2%2FC1-blue?style=flat-square)](https://en.wikipedia.org/wiki/English_language)  
+[![Spanish](https://img.shields.io/badge/Spanish-B1-blue?style=flat-square)](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)  
 
 ---
 
@@ -49,4 +48,4 @@ Lancement d’une nacelle avec capteurs intégrés pour des mesures atmosphériq
 [![Email](https://img.shields.io/badge/Email-aymane.makri@outlook.com-blue?style=flat-square&logo=gmail)](mailto:aymane.makri@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Makri-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil/)  
 
-💡 **Toujours curieux, rigoureux et déterminé à apprendre et évoluer dans le domaine du développement !**
+💡 **Always curious, rigorous, and determined to learn and grow in the field of development!**
