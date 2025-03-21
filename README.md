@@ -37,32 +37,6 @@ Launch of a payload with integrated sensors for atmospheric measurements.
 
 ---
 
-## 🌍 Languages
-
-### French
-<div style="width: 100%; background-color: #e0e0e0;">
-  <div style="width: 100%; background-color: #4caf50; text-align: center; padding: 5px 0; color: white;">
-    100%
-  </div>
-</div>
-
-### English
-<div style="width: 100%; background-color: #e0e0e0;">
-  <div style="width: 70%; background-color: #2196f3; text-align: center; padding: 5px 0; color: white;">
-    70%
-  </div>
-</div>
-
-### Spanish
-<div style="width: 100%; background-color: #e0e0e0;">
-  <div style="width: 50%; background-color: #ff9800; text-align: center; padding: 5px 0; color: white;">
-    50%
-  </div>
-</div>
-
-
----
-
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-aymane.makri@outlook.com-blue?style=flat-square&logo=gmail)](mailto:aymane.makri@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymane%20Makri-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil/)  
