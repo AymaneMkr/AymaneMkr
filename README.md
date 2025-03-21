@@ -21,6 +21,8 @@
 ## 🔧 Operating Systems:
  ![](https://skillicons.dev/icons?i=windows,linux)
 
+---
+
 ## 📌 Notable Projects
 
 ### 🎯 **QuizGrinding** *(React + PHP + CSS, 10/24 - 01/25)*
@@ -35,6 +37,13 @@ Development of an application that detects and prevents potential flight collisi
 Optimization of flight schedules to improve runway efficiency.
 [View Project](https://github.com/AymaneMkr/Runway-Management-System)
 
+---
+
+## Stats
+
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AymaneMkr&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneMkr&hide_border=true&theme=dracula&langs_count=3" />
+  
 ---
 
 ## 📫 Contact
