@@ -23,7 +23,7 @@
 
 ## 📌 Notable Projects
 
-### 🎯 **QuizGrinding** *(HTML/CSS + PHP + React, 10/24 - 01/25)*
+### 🎯 **QuizGrinding** *(React + PHP + CSS, 10/24 - 01/25)*
 Creation of a web-based quiz application with a dynamic ranking system.
 [View Project](https://github.com/AymaneMkr/QuizGrinding)
 
