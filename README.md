@@ -33,7 +33,7 @@ Development of an application that detects and prevents potential flight collisi
 
 ### 🚀 **Runway Management System** *(C, 10/23 - 01/24)*
 Optimization of flight schedules to improve runway efficiency.
-[View Project](https://github.com/AymaneMkr/RunwayManagementSystem)
+[View Project](https://github.com/AymaneMkr/Runway-Management-System)
 
 ---
 
