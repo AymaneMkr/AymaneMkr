@@ -8,7 +8,7 @@
 
 ## 🛠️ Langages de programmation :
 
-  ![](https://skillicons.dev/icons?i=java,python,c,html5,css3,javascript,)
+  ![](https://skillicons.dev/icons?i=java,python,c,html,css,javascript)
 
 ## ⚙ Framework:
 
