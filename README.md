@@ -37,10 +37,9 @@ Launch of a payload with integrated sensors for atmospheric measurements.
 
 ---
 
-## 🌍 Languages
-[![French](https://img.shields.io/badge/French-C2-blue?style=flat-square)](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)  
-[![English](https://img.shields.io/badge/English-B2%2FC1-blue?style=flat-square)](https://en.wikipedia.org/wiki/English_language)  
-[![Spanish](https://img.shields.io/badge/Spanish-B1-blue?style=flat-square)](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)  
+## 🌍 Stats
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AymaneMkr&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneMkri&hide_border=true&theme=dracula&langs_count=3" />
 
 ---
 
